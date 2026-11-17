@@ -1,4 +1,3 @@
-
 ## 💫 About Me
 
 👋 I'm **Ekaterina Smirnova**, a **Senior QA Engineer** with **12+ years of experience** in software quality assurance, specializing in complex backend systems and distributed architectures.
@@ -10,6 +9,13 @@ I believe effective quality engineering goes beyond finding bugs. It's about und
 - 🧠 **Approach:** Analytical thinking, pragmatic test coverage, and early risk identification.
 - 🤖 **Interests:** AI-Assisted Development, Intelligent Testing, and Modern Engineering Practices.
 - 🚀 **Goal:** Building reliable software through thoughtful testing strategies, technical curiosity, and continuous improvement.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathie-smirnova/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathy.smirnova@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kathie_s)
+
 
 ## 🛠️ Tech Stack & Tools
 
