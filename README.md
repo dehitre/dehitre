@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-👋 I'm **Ekaterina Smirnova**, a **Senior QA Engineer** with **12+ years of experience** in software quality assurance, specializing in complex backend systems and distributed architectures.
+👋 I'm **Ekaterina Smirnova**, a **Senior QA Engineer** with **10+ years of experience** in software quality assurance, specializing in complex backend systems and distributed architectures. I've worked in fintech, sports betting, high-load platforms and the regulated automotive industry.
 
 I believe effective quality engineering goes beyond finding bugs. It's about understanding how systems work, identifying what matters most, and making informed decisions that balance quality, risks, and delivery speed.
 
@@ -9,6 +9,7 @@ I believe effective quality engineering goes beyond finding bugs. It's about und
 - 🧠 **Approach:** Analytical thinking, pragmatic test coverage, and early risk identification.
 - 🤖 **Interests:** AI-Assisted Development, Intelligent Testing, and Modern Engineering Practices.
 - 🚀 **Goal:** Building reliable software through thoughtful testing strategies, technical curiosity, and continuous improvement.
+- 👥 **Leadership:** QA Lead for teams of up to 8 engineers; test strategy, release decisions, mentoring.
 
 ## 🌐 Connect with Me
 
@@ -22,6 +23,7 @@ I believe effective quality engineering goes beyond finding bugs. It's about und
 ### 🔍 Quality Engineering
 - **Testing:** Functional, Integration, Regression, Exploratory, E2E Testing
 - **Test Management:** TestRail, TestOps, Jira
+- **Investigation:** Root-Cause Analysis, Logs, ELK/Kibana, Linux
 
 ### 🐍 Programming & Test Automation
 
@@ -34,7 +36,7 @@ I believe effective quality engineering goes beyond finding bugs. It's about und
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Technologies:** REST APIs, SOAP
+**Technologies:** REST APIs, SOAP, Kafka, Microservices
 
 ### 🗄️ Databases
 
@@ -42,7 +44,7 @@ I believe effective quality engineering goes beyond finding bugs. It's about und
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
-**Tools:** DataGrip, DBeaver
+**Also:** ClickHouse, Redis, DynamoDB · **Tools:** DataGrip, DBeaver
 
 ### ⚙️ Development & CI/CD
 
